@@ -2,8 +2,36 @@
   :workflow {
     :recent-files [
       [
+        "/assets/player.atlas"
+        :scene
+      ]
+      [
         "/README.md"
         :html
+      ]
+      [
+        "/main/camera.camera"
+        :cljfx-form-view
+      ]
+      [
+        "/assets/player.tilesource"
+        :scene
+      ]
+      [
+        "/assets/level.tilesource"
+        :scene
+      ]
+      [
+        "/assets/map.tilemap"
+        :scene
+      ]
+      [
+        "/main/player.go"
+        :scene
+      ]
+      [
+        "/main/main.collection"
+        :scene
       ]
     ]
   }
